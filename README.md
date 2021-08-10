@@ -14,3 +14,5 @@ ClientA進入遊戲後，根據指示開設遊戲房間，並告知Client B房�
 第二階段：根據對方的題目打出相對應的字
 
 （分數已達對率計算，四捨五入）
+
+影片連結 https://drive.google.com/file/d/1LAmngi1dM84WXlrC7IPZ3cFfXx58hX3A/view?usp=sharing
